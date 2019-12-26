@@ -7,4 +7,8 @@ public class Q15 {
             System.out.println(i);
         }
     }
+
+    class NoClass {
+        
+    }
 }
