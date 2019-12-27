@@ -1,0 +1,44 @@
+Git Commands
+-git init
+-git status
+-git diff
+-git add <>
+-git commit -m 
+-git pull origin <>
+-git merge
+-git branch
+-git log
+-git remote ....
+-git global config username/email
+-git ogren fazlasisni
+
+Linux Commands
+-greb 
+-find
+-cat
+-cp
+-echo
+-cd
+-pwd
+-ls
+- <> man
+-open
+devamini ekle ogrendikce
+- javac javafile.java
+- java javafile
+- mvn (bunu ogren maven i ogren  mvn clean , mvn install)
+
+
+
+FRAMEWORKS
+
+Maven 
+
+Gradle
+
+Groovy
+
+Spring Framework
+
+
+
