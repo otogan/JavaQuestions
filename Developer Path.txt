@@ -5,7 +5,7 @@ Git Commands
 -git add <>
 -git commit -m 
 -git pull origin <>
--git merge
+-git merge (confict)
 -git branch
 -git log
 -git remote ....
