@@ -1,7 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0ef31ec-9bf7-4810-8f2e-b6a149102b1f" name="Default Changelist" comment="" />
+    <list default="true" id="e0ef31ec-9bf7-4810-8f2e-b6a149102b1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/q21to40/Q40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q41to50/Q41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q41to50/Q42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q41to50/Q44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q41to50/Q47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q41to50/Q48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q41to50/Q50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q51to60/Forloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q51to60/Q51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q51to60/Q52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q51to60/Q53.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Developer Path.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Developer Path.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Paht.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/DerivedA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q01to10/DerivedA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/DerivedB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q01to10/DerivedB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q01to10/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q01to10/Q1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q01to10/Q10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q01to10/Q2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q01to10/Q3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q01to10/Q4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q01to10/Q5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q01to10/Q6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q01to10/Q7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Exportable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q11to20/Exportable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/HelloOnur.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q11to20/HelloOnur.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q11to20/Q11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q12.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q11to20/Q12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q11to20/Q13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q14.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q11to20/Q14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q15.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q11to20/Q15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q17.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q11to20/Q17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q18.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q11to20/Q18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q19.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q11to20/Q19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q20.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q11to20/Q20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/ReportTool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q11to20/ReportTool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q11to20/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Tools.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q11to20/Tools.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q21to40/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Q23.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q21to40/Q23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Q24.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q21to40/Q24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Q26.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q21to40/Q26.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Q33.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q21to40/Q33.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Q34.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q21to40/Q34.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q21to40/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q21to40/Test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/p1/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q21to40/p1/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/p1/p2/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q21to40/p1/p2/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/p3/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q21to40/p3/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Teast.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Teast.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,23 +95,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="testproject" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.16699219" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Test2">
-    <configuration name="Q33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q21to40.Q33" />
+  <component name="RunManager" selected="Application.Q53">
+    <configuration name="Forloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q51to60.Forloop" />
       <module name="TestProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q21to40.*" />
+          <option name="PATTERN" value="q51to60.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q21to40.Q34" />
+    <configuration name="Q48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q41to50.Q48" />
       <module name="TestProject" />
+      <option name="PROGRAM_PARAMETERS" value="1 3 2 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q21to40.*" />
+          <option name="PATTERN" value="q41to50.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q11to20.Test" />
+    <configuration name="Q50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q41to50.Q50" />
       <module name="TestProject" />
+      <option name="PROGRAM_PARAMETERS" value="Java Test Hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q11to20.*" />
+          <option name="PATTERN" value="q41to50.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q21to40.Test" />
+    <configuration name="Q51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q51to60.Q51" />
       <module name="TestProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q21to40.*" />
+          <option name="PATTERN" value="q51to60.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q21to40.Test2" />
+    <configuration name="Q53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q51to60.Q53" />
       <module name="TestProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q21to40.*" />
+          <option name="PATTERN" value="q51to60.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,13 +177,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Q48" />
+      <item itemvalue="Application.Q50" />
+      <item itemvalue="Application.Q51" />
+      <item itemvalue="Application.Forloop" />
+      <item itemvalue="Application.Q53" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Q34" />
-        <item itemvalue="Application.Q33" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Q53" />
+        <item itemvalue="Application.Forloop" />
+        <item itemvalue="Application.Q51" />
+        <item itemvalue="Application.Q50" />
+        <item itemvalue="Application.Q48" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +218,7 @@
       <updated>1576981686011</updated>
       <workItem from="1577345003621" duration="42000" />
       <workItem from="1577420952552" duration="9772000" />
+      <workItem from="1577683788175" duration="11226000" />
     </task>
     <task id="LOCAL-00001" summary="new questions">
       <created>1577430562785</created>
@@ -192,49 +263,73 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1577421262447" />
-    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577428300318">
+    <state x="533" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577771533568">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577428300318" />
-    <state x="1136" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1577425305470">
+    <state x="533" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577771533568" />
+    <state x="1136" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1577770426235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1136" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577425305470" />
+    <state x="1136" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577770426235" />
     <state x="590" y="210" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1577421719757">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="590" y="210" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577421719757" />
-    <state x="743" y="119" key="CommitChangelistDialog2" timestamp="1577430743263">
+    <state x="1306" y="277" key="#xdebugger.XInspectDialog" timestamp="1577768302166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="743" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577430743263" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1577421252325">
+    <state x="1306" y="277" key="#xdebugger.XInspectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577768302166" />
+    <state x="743" y="119" key="CommitChangelistDialog2" timestamp="1577776505234">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577421252325" />
-    <state width="1132" height="282" key="GridCell.Tab.0.bottom" timestamp="1577430750270">
+    <state x="743" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577776505234" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1577767614089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1132" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577430750270" />
-    <state width="1132" height="282" key="GridCell.Tab.0.center" timestamp="1577430750270">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577767614089" />
+    <state width="1028" height="282" key="GridCell.Tab.0.bottom" timestamp="1577776157081">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1132" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577430750270" />
-    <state width="1132" height="282" key="GridCell.Tab.0.left" timestamp="1577430750269">
+    <state width="1028" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577776157081" />
+    <state width="1028" height="282" key="GridCell.Tab.0.center" timestamp="1577776157080">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1132" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577430750269" />
-    <state width="1132" height="282" key="GridCell.Tab.0.right" timestamp="1577430750270">
+    <state width="1028" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577776157080" />
+    <state width="1028" height="282" key="GridCell.Tab.0.left" timestamp="1577776157080">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1132" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577430750270" />
-    <state x="461" y="163" key="SettingsEditor" timestamp="1577421231307">
+    <state width="1028" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577776157080" />
+    <state width="1028" height="282" key="GridCell.Tab.0.right" timestamp="1577776157081">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577421231307" />
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1577420976199">
+    <state width="1028" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577776157081" />
+    <state width="1028" height="347" key="GridCell.Tab.1.bottom" timestamp="1577774403745">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577420976199" />
+    <state width="1028" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577774403745" />
+    <state width="1028" height="347" key="GridCell.Tab.1.center" timestamp="1577774403745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1028" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577774403745" />
+    <state width="1028" height="347" key="GridCell.Tab.1.left" timestamp="1577774403745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1028" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577774403745" />
+    <state width="1028" height="347" key="GridCell.Tab.1.right" timestamp="1577774403745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1028" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577774403745" />
+    <state x="596" y="171" key="SettingsEditor" timestamp="1577767816132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="596" y="171" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577767816132" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1577683789898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577683789897" />
+    <state x="685" y="141" key="new project wizard" timestamp="1577683814839">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="141" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1577683814839" />
   </component>
 </project>
