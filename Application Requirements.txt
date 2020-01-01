@@ -1,0 +1,28 @@
+Requirements
+	Bachelor’s degree 
+	3 years of software development experience utilizing Java
+	US Citizen
+
+Skills
+	Scrum
+	Match
+	Java
+	Software Development Life Cycle (SDLC)
+	System Development
+	Technical Design
+	Control Systems Design
+	Service Orientation
+	Assessment
+	Documentation
+	Jenkins
+
+Experience
+	version-control system (Subversion)
+	Integrated Development Environment (IDE) (Eclipse)
+	configuration/build tool (Maven)
+	continuous-integration server (Jenkins)
+	unit-testing framework (JUnit)
+	third-party APIs and frameworks (Spring)
+	Scrum environment
+	Service-Oriented Architectures (SOA) and web service paradigms and protocols (SOAP and REST)
+	Single-Page Applications (SPA)
