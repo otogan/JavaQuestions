@@ -1,4 +1,4 @@
-package q51to60;
+package q51to70;
 
 public class Q53 {
     public static void main(String[] args) {
