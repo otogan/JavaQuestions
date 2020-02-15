@@ -11,6 +11,3 @@ Gradle
 Groovy
 
 Spring Framework
-
-
-

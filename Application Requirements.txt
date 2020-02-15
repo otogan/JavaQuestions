@@ -1,24 +1,24 @@
 Requirements
 	Bachelor’s degree 
 	3 years of software development experience utilizing Java
-	US Citizen
+	US Citizen/ GC 
 
 Skills
-	Scrum
-	Match
-	Java
+	Scrum/ Agile/ Waterfall
+	Efficient in Java/JS
+	Exposed to Python/C++/C#/.NET/
 	Software Development Life Cycle (SDLC)
-	System Development
-	Technical Design
-	Control Systems Design
-	Service Orientation
-	Assessment
-	Documentation
+	System Development ??
+	Technical Design ??
+	Control Systems Design ??
+	Service Orientation ?? 
+	Assessment ??
+	Documentation 
 	Jenkins
 
 Experience
-	version-control system (Subversion)
-	Integrated Development Environment (IDE) (Eclipse)
+	version-control system (GIT/Subversion)  
+	Integrated Development Environment (IDE) (IntelliJ/Eclipse/VisualStudioCode/Br)
 	configuration/build tool (Maven)
 	continuous-integration server (Jenkins)
 	unit-testing framework (JUnit)
