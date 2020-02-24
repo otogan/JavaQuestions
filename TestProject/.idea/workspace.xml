@@ -303,14 +303,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1136" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577770426235" />
+    <state x="2930" y="116" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1582509598304">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state x="2930" y="116" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582509598304" />
     <state x="590" y="210" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1577421719757">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="590" y="210" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577421719757" />
+    <state x="3022" y="256" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582509588242">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state x="3022" y="256" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582509588242" />
     <state x="869" y="384" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579372208070">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="869" y="384" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1579372208070" />
+    <state x="2996" y="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1582509605525">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state x="2996" y="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582509605525" />
     <state x="1306" y="277" key="#xdebugger.XInspectDialog" timestamp="1577768302166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
