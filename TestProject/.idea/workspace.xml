@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0ef31ec-9bf7-4810-8f2e-b6a149102b1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/myQuestions/AfterNDaysQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myQuestions/lists/Lists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/q41to50/Q42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/q41to50/Q42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/TestProject.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/myQuestions/AfterNDaysQuestion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/myQuestions/AfterNDaysQuestion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q41to50/Q42.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/q41to50/Q42.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,17 +65,17 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.16699219" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="hackerRank" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AfterNDaysQuestion">
+  <component name="RunManager" selected="TestNG.Lists.sortArray">
     <configuration name="AfterNDaysQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myQuestions.AfterNDaysQuestion" />
       <module name="TestProject" />
@@ -81,73 +89,118 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q122" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q110to130.Q122" />
+    <configuration name="TestProject [clean]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Lists.iterations" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q110to130.*" />
+          <option name="PATTERN" value="myQuestions.lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="myQuestions.lists" />
+      <option name="MAIN_CLASS_NAME" value="myQuestions.lists.Lists" />
+      <option name="METHOD_NAME" value="iterations" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q127" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q110to130.Q127" />
+    <configuration name="Lists.iterations1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q110to130.*" />
+          <option name="PATTERN" value="myQuestions.lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="myQuestions.lists" />
+      <option name="MAIN_CLASS_NAME" value="myQuestions.lists.Lists" />
+      <option name="METHOD_NAME" value="iterations1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q131to150.Q131" />
+    <configuration name="Lists.iterations2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestProject" />
-      <option name="PROGRAM_PARAMETERS" value="1 2 3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q131to150.*" />
+          <option name="PATTERN" value="myQuestions.lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="myQuestions.lists" />
+      <option name="MAIN_CLASS_NAME" value="myQuestions.lists.Lists" />
+      <option name="METHOD_NAME" value="iterations2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q144" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q131to150.Q144" />
+    <configuration name="Lists.sortArray" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q131to150.*" />
+          <option name="PATTERN" value="myQuestions.lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="myQuestions.lists" />
+      <option name="MAIN_CLASS_NAME" value="myQuestions.lists.Lists" />
+      <option name="METHOD_NAME" value="sortArray" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q122" />
-      <item itemvalue="Application.Q127" />
-      <item itemvalue="Application.Q131" />
-      <item itemvalue="Application.Q144" />
       <item itemvalue="Application.AfterNDaysQuestion" />
+      <item itemvalue="Maven.TestProject [clean]" />
+      <item itemvalue="TestNG.Lists.iterations" />
+      <item itemvalue="TestNG.Lists.iterations2" />
+      <item itemvalue="TestNG.Lists.iterations1" />
+      <item itemvalue="TestNG.Lists.sortArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Lists.sortArray" />
+        <item itemvalue="TestNG.Lists.iterations1" />
+        <item itemvalue="TestNG.Lists.iterations2" />
+        <item itemvalue="TestNG.Lists.iterations" />
         <item itemvalue="Application.AfterNDaysQuestion" />
-        <item itemvalue="Application.Q144" />
-        <item itemvalue="Application.Q131" />
-        <item itemvalue="Application.Q127" />
-        <item itemvalue="Application.Q122" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +230,7 @@
       <workItem from="1577420952552" duration="9772000" />
       <workItem from="1577683788175" duration="45533000" />
       <workItem from="1581798390285" duration="28361000" />
-      <workItem from="1582396303766" duration="4782000" />
+      <workItem from="1582396303766" duration="9053000" />
     </task>
     <task id="LOCAL-00001" summary="new questions">
       <created>1577430562785</created>
@@ -232,14 +285,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="new questions" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="179" key="#Project_Structure" timestamp="1577421262447">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1577421262447" />
-    <state x="2631" y="-120" width="1092" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582398343295">
+    <state x="2656" y="-119" key="#Project_Structure" timestamp="1582506289554">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state x="2631" y="-120" width="1092" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582398343295" />
+    <state x="2656" y="-119" key="#Project_Structure/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582506289554" />
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1577421262447" />
+    <state x="2815" y="-68" key="#TestProject_[clean]" timestamp="1582506427878">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state x="2815" y="-68" key="#TestProject_[clean]/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582506427878" />
+    <state x="2631" y="-120" width="1092" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582505912233">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state x="2631" y="-120" width="1092" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582505912233" />
     <state x="533" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577771533568" />
     <state x="1136" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1577770426235">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -266,25 +324,25 @@
     </state>
     <state x="2907" y="10" key="FileChooserDialogImpl/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582397821687" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579576869425" />
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1582401878526">
+    <state width="2517" height="489" key="GridCell.Tab.0.bottom" timestamp="1582509194562">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582401878526" />
+    <state width="2517" height="489" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582509194562" />
     <state width="979" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579499135745" />
-    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1582401878525">
+    <state width="2517" height="489" key="GridCell.Tab.0.center" timestamp="1582509194561">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582401878525" />
+    <state width="2517" height="489" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582509194561" />
     <state width="979" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579499135745" />
-    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1582401878525">
+    <state width="2517" height="489" key="GridCell.Tab.0.left" timestamp="1582509194561">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582401878525" />
+    <state width="2517" height="489" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582509194561" />
     <state width="979" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579499135745" />
-    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1582401878525">
+    <state width="2517" height="489" key="GridCell.Tab.0.right" timestamp="1582509194562">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582401878525" />
+    <state width="2517" height="489" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582509194562" />
     <state width="979" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579499135745" />
     <state width="2517" height="489" key="GridCell.Tab.1.bottom" timestamp="1582170439557">
       <screen x="1920" y="-360" width="2560" height="1400" />
@@ -306,10 +364,10 @@
     </state>
     <state width="2517" height="489" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582170439557" />
     <state width="979" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579463453779" />
-    <state x="2715" y="-130" key="SettingsEditor" timestamp="1582397759486">
+    <state x="2715" y="-130" key="SettingsEditor" timestamp="1582506847461">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state x="2715" y="-130" key="SettingsEditor/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582397759486" />
+    <state x="2715" y="-130" key="SettingsEditor/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582506847461" />
     <state x="596" y="171" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577767816132" />
     <state x="889" y="307" key="chooseDestDirectoryDialog" timestamp="1579372163870">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -323,6 +381,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="685" y="141" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1577937323205" />
+    <state x="2856" y="150" key="run.anything.popup" timestamp="1582506204601">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state x="2856" y="150" key="run.anything.popup/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582506204601" />
+    <state x="2863" y="-45" width="672" height="678" key="search.everywhere.popup" timestamp="1582506830953">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state x="2863" y="-45" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582506830953" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

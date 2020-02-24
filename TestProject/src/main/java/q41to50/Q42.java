@@ -1,7 +1,5 @@
 package q41to50;
 
-import com.sun.xml.internal.ws.api.streaming.XMLStreamWriterFactory;
-
 public class Q42 {
     public static void main(String[] args) {
         String str1 = "Java";
