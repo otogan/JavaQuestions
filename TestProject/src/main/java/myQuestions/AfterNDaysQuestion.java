@@ -1,7 +1,5 @@
 package myQuestions;
 
-import org.testng.annotations.Test;
-
 import java.util.*;
 
 public class AfterNDaysQuestion {

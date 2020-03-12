@@ -2,121 +2,156 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0ef31ec-9bf7-4810-8f2e-b6a149102b1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/myQuestions/GroupSubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myQuestions/NumberPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myQuestions/lists/PatternCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GradingStudentsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/TestProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/hackerRank/BigDecimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/hackerRank/BigIntegerPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/hackerRank/CalendarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/hackerRank/CurrencyFormatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/hackerRank/GradingStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/hackerRank/IntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/hackerRank/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/hackerRank/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/hackerRank/RegExTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/hackerRank/StaticBlockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/hackerRank/StringCompareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/myQuestions/AfterNDaysQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/myQuestions/GroupSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/myQuestions/NumberPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/myQuestions/lists/Lists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/myQuestions/lists/PatternCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q01to10/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q01to10/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q01to10/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q01to10/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q01to10/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q01to10/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q01to10/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q01to10/Q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q110to130/Q113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q110to130/Q114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q110to130/Q118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q110to130/Q120.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q110to130/Q122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q110to130/Q127.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q11to20/HelloOnur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q11to20/Q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q11to20/Q12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q11to20/Q13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q11to20/Q14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q11to20/Q15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q11to20/Q17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q11to20/Q18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q11to20/Q19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q11to20/Q20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q11to20/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q131to150/Q131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q131to150/Q138.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q131to150/Q139.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q131to150/Q144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q21to40/Q23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q21to40/Q24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q21to40/Q26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q21to40/Q33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q21to40/Q34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q21to40/Q40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q21to40/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q21to40/p1/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q21to40/p1/p2/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q21to40/p3/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q41to50/Q41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q41to50/Q42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q41to50/Q44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q41to50/Q47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q41to50/Q48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q41to50/Q50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q51to70/Forloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q51to70/Q51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q51to70/Q52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q51to70/Q53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q51to70/Q60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q51to70/Q64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q51to70/Q69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q51to70/Q70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q71to90/Q72.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q71to90/Q74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q71to90/Q83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q71to90/Q85.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q71to90/Q86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q71to90/Q90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q91to100/Q101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q91to100/Q103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q91to100/Q105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q91to100/Q106.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q91to100/Q94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject2/src/main/java/com/onurtogan/test2/preparationKit/q91to100/Q95.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/JavaQuestions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_no_aop_4_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProject/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProject/q01to10/DerivedA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProject/q01to10/DerivedB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProject/q01to10/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProject/q01to10/Q1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProject/q01to10/Q10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProject/q01to10/Q2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProject/q01to10/Q3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProject/q01to10/Q4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProject/q01to10/Q5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProject/q01to10/Q6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProject/q01to10/Q7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProject/q11to20/Exportable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProject/q11to20/Q11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProject/q11to20/Q12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProject/q11to20/Q13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProject/q11to20/Q14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProject/q11to20/Q15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProject/q11to20/ReportTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProject/q11to20/Tools.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hackerRank/GradingStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerRank/GradingStudents.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/myQuestions/AfterNDaysQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/myQuestions/AfterNDaysQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/myQuestions/lists/Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/myQuestions/lists/Lists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Teast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/TestProject.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/myQuestions/AfterNDaysQuestion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/myQuestions/AfterNDaysQuestion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/myQuestions/lists/Lists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/myQuestions/lists/Lists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/DerivedA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/DerivedB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q110to130/MyException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q110to130/Q113.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q110to130/Q114.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q110to130/Q118.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q110to130/Q120.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q110to130/Q122.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q110to130/Q127.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Exportable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/HelloOnur.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/ReportTool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Tools.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q131to150/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q131to150/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q131to150/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q131to150/Q131.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q131to150/Q139.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q131to150/Q144.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Q23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Q24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Q26.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Q33.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Q34.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Q40.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/p1/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/p1/p2/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/p3/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q41to50/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q41to50/EBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q41to50/Q41.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q41to50/Q42.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q41to50/Q44.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q41to50/Q47.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q41to50/Q48.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q41to50/Q50.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q41to50/Readable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Earth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Forloop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Planet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Q51.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Q52.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Q53.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Q60.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Q64.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Q69.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Q70.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/X.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/A1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/A3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/A4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/A5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Book2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/C1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/C2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Downloadable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/EBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/EBook2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/I.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Q72.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Q74.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Q83.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Q85.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Q86.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Q90.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Readable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Readable2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/Q101.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/Q103.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/Q105.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/Q106.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/Q94.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/Q95.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/Toy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/X.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/myQuestions/lists/PatternCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/myQuestions/lists/PatternCounter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Teast.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +197,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_231/src.zip!/" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -173,7 +208,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.16699219" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -181,7 +216,20 @@
       <recent name="hackerRank" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PatternCounter">
+  <component name="RunManager" selected="Application.GradingStudents">
+    <configuration name="GradingStudents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerRank.GradingStudents" />
+      <module name="TestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GroupSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myQuestions.GroupSubString" />
       <module name="TestProject" />
@@ -221,19 +269,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q103" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="preparationKit.q91to100.Q103" />
-      <module name="TestProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="preparationKit.q91to100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestProject [clean]" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -259,39 +294,19 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
-    <configuration name="GroupSubString.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="myQuestions" />
-      <option name="MAIN_CLASS_NAME" value="myQuestions.GroupSubString" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Q103" />
       <item itemvalue="Application.GroupSubString" />
       <item itemvalue="Application.NumberPalindrome" />
       <item itemvalue="Application.PatternCounter" />
+      <item itemvalue="Application.GradingStudents" />
       <item itemvalue="Maven.TestProject [clean]" />
-      <item itemvalue="TestNG.GroupSubString.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GradingStudents" />
         <item itemvalue="Application.PatternCounter" />
         <item itemvalue="Application.NumberPalindrome" />
         <item itemvalue="Application.GroupSubString" />
-        <item itemvalue="TestNG.GroupSubString.test" />
-        <item itemvalue="Application.Q103" />
       </list>
     </recent_temporary>
   </component>
@@ -324,6 +339,9 @@
       <workItem from="1582396303766" duration="9800000" />
       <workItem from="1582769427531" duration="2399000" />
       <workItem from="1583030113440" duration="13172000" />
+      <workItem from="1584027928026" duration="1586000" />
+      <workItem from="1584029573790" duration="869000" />
+      <workItem from="1584032658092" duration="2078000" />
     </task>
     <task id="LOCAL-00001" summary="new questions">
       <created>1577430562785</created>
@@ -378,19 +396,23 @@
     <option name="LAST_COMMIT_MESSAGE" value="new questions" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2656" y="-119" key="#Project_Structure" timestamp="1582506289554">
+    <state x="2656" y="-119" key="#Project_Structure" timestamp="1584034360887">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state x="2656" y="-119" key="#Project_Structure/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582506289554" />
+    <state x="2656" y="-119" key="#Project_Structure/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1584034360887" />
     <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1577421262447" />
+    <state x="2792" y="-2" key="#Servers" timestamp="1584028899777">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state x="2792" y="-2" key="#Servers/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1584028899777" />
     <state x="2815" y="-68" key="#TestProject_[clean]" timestamp="1582506427878">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
     <state x="2815" y="-68" key="#TestProject_[clean]/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582506427878" />
-    <state x="2631" y="-120" width="1092" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582505912233">
+    <state x="2631" y="-120" width="1092" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584029151013">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state x="2631" y="-120" width="1092" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582505912233" />
+    <state x="2631" y="-120" width="1092" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1584029151013" />
     <state x="533" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577771533568" />
     <state x="1136" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1577770426235">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -400,10 +422,19 @@
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
     <state x="2930" y="116" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582509598304" />
-    <state x="590" y="210" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1577421719757">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2906" y="18" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584029053430">
+      <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
+    <state x="2906" y="18" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1584029053430" />
+    <state x="2707" y="-77" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1584030075672">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state x="2707" y="-77" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1584030075672" />
     <state x="590" y="210" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577421719757" />
+    <state x="3051" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584032819328">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state x="3051" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1584032819328" />
     <state x="3022" y="256" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582771682377">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
@@ -424,30 +455,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="743" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577858683999" />
-    <state x="2907" y="10" key="FileChooserDialogImpl" timestamp="1583093140186">
+    <state x="2907" y="10" key="FileChooserDialogImpl" timestamp="1584032868400">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state x="2907" y="10" key="FileChooserDialogImpl/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583093140186" />
+    <state x="2907" y="10" key="FileChooserDialogImpl/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1584032868400" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579576869425" />
-    <state width="2517" height="356" key="GridCell.Tab.0.bottom" timestamp="1583187306610">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1584034606291">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state width="2517" height="356" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583187306610" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1584034606291" />
     <state width="979" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579499135745" />
-    <state width="2517" height="356" key="GridCell.Tab.0.center" timestamp="1583187306610">
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1584034606290">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state width="2517" height="356" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583187306610" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1584034606290" />
     <state width="979" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579499135745" />
-    <state width="2517" height="356" key="GridCell.Tab.0.left" timestamp="1583187306610">
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1584034606290">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state width="2517" height="356" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583187306610" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1584034606290" />
     <state width="979" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579499135745" />
-    <state width="2517" height="356" key="GridCell.Tab.0.right" timestamp="1583187306610">
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1584034606290">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state width="2517" height="356" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583187306610" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1584034606290" />
     <state width="979" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579499135745" />
     <state width="2517" height="489" key="GridCell.Tab.1.bottom" timestamp="1583187306601">
       <screen x="1920" y="-360" width="2560" height="1400" />
@@ -469,24 +500,26 @@
     </state>
     <state width="2517" height="489" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583187306601" />
     <state width="979" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579463453779" />
-    <state x="2715" y="-130" key="SettingsEditor" timestamp="1582506847461">
+    <state x="2715" y="-130" key="SettingsEditor" timestamp="1584033139535">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state x="2715" y="-130" key="SettingsEditor/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582506847461" />
+    <state x="596" y="171" key="SettingsEditor/0.0.1920.1040/1920.-360.2560.1400@0.0.1920.1040" timestamp="1584032716949" />
+    <state x="2715" y="-130" key="SettingsEditor/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1584033139535" />
     <state x="596" y="171" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577767816132" />
     <state x="889" y="307" key="chooseDestDirectoryDialog" timestamp="1579372163870">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="889" y="307" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579372163870" />
-    <state x="2795" y="104" key="com.intellij.ide.util.TipDialog" timestamp="1583030121517">
-      <screen x="1920" y="-360" width="2560" height="1400" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1584032672382">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="2795" y="104" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583030121517" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-360.2560.1400@0.0.1920.1040" timestamp="1584032672382" />
+    <state x="2795" y="104" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1584029595250" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577683789897" />
-    <state x="2833" y="-170" key="new project wizard" timestamp="1583093214779">
+    <state x="2833" y="-170" key="new project wizard" timestamp="1584029805050">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state x="2833" y="-170" key="new project wizard/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583093214779" />
+    <state x="2833" y="-170" key="new project wizard/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1584029805050" />
     <state x="685" y="141" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1577937323205" />
     <state x="2856" y="150" key="run.anything.popup" timestamp="1582506204601">
       <screen x="1920" y="-360" width="2560" height="1400" />
