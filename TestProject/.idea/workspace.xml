@@ -1,7 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0ef31ec-9bf7-4810-8f2e-b6a149102b1f" name="Default Changelist" comment="" />
+    <list default="true" id="e0ef31ec-9bf7-4810-8f2e-b6a149102b1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/myQuestions/GroupSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myQuestions/NumberPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myQuestions/lists/PatternCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/myQuestions/AfterNDaysQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/myQuestions/AfterNDaysQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/myQuestions/AfterNDaysQuestion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/myQuestions/AfterNDaysQuestion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/myQuestions/lists/Lists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/myQuestions/lists/Lists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/DerivedA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/DerivedB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q01to10/Q7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q110to130/MyException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q110to130/Q113.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q110to130/Q114.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q110to130/Q118.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q110to130/Q120.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q110to130/Q122.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q110to130/Q127.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Exportable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/HelloOnur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Q20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/ReportTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q11to20/Tools.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q131to150/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q131to150/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q131to150/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q131to150/Q131.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q131to150/Q139.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q131to150/Q144.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Q23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Q24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Q26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Q33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Q34.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Q40.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/p1/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/p1/p2/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q21to40/p3/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q41to50/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q41to50/EBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q41to50/Q41.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q41to50/Q42.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q41to50/Q44.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q41to50/Q47.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q41to50/Q48.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q41to50/Q50.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q41to50/Readable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Earth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Forloop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Planet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Q51.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Q52.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Q53.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Q60.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Q64.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Q69.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Q70.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q51to70/X.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/A1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/A3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/A4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/A5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Book2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/C1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/C2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Downloadable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/EBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/EBook2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/I.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Q72.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Q74.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Q83.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Q85.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Q86.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Q90.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Readable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q71to90/Readable2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/Q101.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/Q103.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/Q105.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/Q106.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/Q94.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/Q95.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/Toy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/q91to100/X.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,13 +181,52 @@
       <recent name="hackerRank" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Lists.sortArray">
-    <configuration name="AfterNDaysQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myQuestions.AfterNDaysQuestion" />
+  <component name="RunManager" selected="Application.PatternCounter">
+    <configuration name="GroupSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myQuestions.GroupSubString" />
       <module name="TestProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="myQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myQuestions.NumberPalindrome" />
+      <module name="TestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatternCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myQuestions.lists.PatternCounter" />
+      <module name="TestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myQuestions.lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q103" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preparationKit.q91to100.Q103" />
+      <module name="TestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="preparationKit.q91to100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,71 +259,17 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
-    <configuration name="Lists.iterations" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GroupSubString.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myQuestions.lists.*" />
+          <option name="PATTERN" value="myQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="myQuestions.lists" />
-      <option name="MAIN_CLASS_NAME" value="myQuestions.lists.Lists" />
-      <option name="METHOD_NAME" value="iterations" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lists.iterations1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myQuestions.lists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="myQuestions.lists" />
-      <option name="MAIN_CLASS_NAME" value="myQuestions.lists.Lists" />
-      <option name="METHOD_NAME" value="iterations1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lists.iterations2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myQuestions.lists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="myQuestions.lists" />
-      <option name="MAIN_CLASS_NAME" value="myQuestions.lists.Lists" />
-      <option name="METHOD_NAME" value="iterations2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lists.sortArray" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myQuestions.lists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="myQuestions.lists" />
-      <option name="MAIN_CLASS_NAME" value="myQuestions.lists.Lists" />
-      <option name="METHOD_NAME" value="sortArray" />
+      <option name="PACKAGE_NAME" value="myQuestions" />
+      <option name="MAIN_CLASS_NAME" value="myQuestions.GroupSubString" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -177,20 +278,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AfterNDaysQuestion" />
+      <item itemvalue="Application.Q103" />
+      <item itemvalue="Application.GroupSubString" />
+      <item itemvalue="Application.NumberPalindrome" />
+      <item itemvalue="Application.PatternCounter" />
       <item itemvalue="Maven.TestProject [clean]" />
-      <item itemvalue="TestNG.Lists.iterations" />
-      <item itemvalue="TestNG.Lists.iterations2" />
-      <item itemvalue="TestNG.Lists.iterations1" />
-      <item itemvalue="TestNG.Lists.sortArray" />
+      <item itemvalue="TestNG.GroupSubString.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Lists.sortArray" />
-        <item itemvalue="TestNG.Lists.iterations1" />
-        <item itemvalue="TestNG.Lists.iterations2" />
-        <item itemvalue="TestNG.Lists.iterations" />
-        <item itemvalue="Application.AfterNDaysQuestion" />
+        <item itemvalue="Application.PatternCounter" />
+        <item itemvalue="Application.NumberPalindrome" />
+        <item itemvalue="Application.GroupSubString" />
+        <item itemvalue="TestNG.GroupSubString.test" />
+        <item itemvalue="Application.Q103" />
       </list>
     </recent_temporary>
   </component>
@@ -221,6 +322,8 @@
       <workItem from="1577683788175" duration="45533000" />
       <workItem from="1581798390285" duration="28361000" />
       <workItem from="1582396303766" duration="9800000" />
+      <workItem from="1582769427531" duration="2399000" />
+      <workItem from="1583030113440" duration="13172000" />
     </task>
     <task id="LOCAL-00001" summary="new questions">
       <created>1577430562785</created>
@@ -301,10 +404,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="590" y="210" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577421719757" />
-    <state x="3022" y="256" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582509588242">
+    <state x="3022" y="256" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582771682377">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state x="3022" y="256" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582509588242" />
+    <state x="3022" y="256" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582771682377" />
     <state x="869" y="384" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579372208070">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -321,50 +424,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="743" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577858683999" />
-    <state x="2907" y="10" key="FileChooserDialogImpl" timestamp="1582397821687">
+    <state x="2907" y="10" key="FileChooserDialogImpl" timestamp="1583093140186">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state x="2907" y="10" key="FileChooserDialogImpl/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582397821687" />
+    <state x="2907" y="10" key="FileChooserDialogImpl/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583093140186" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579576869425" />
-    <state width="2517" height="489" key="GridCell.Tab.0.bottom" timestamp="1582603785033">
+    <state width="2517" height="356" key="GridCell.Tab.0.bottom" timestamp="1583187306610">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state width="2517" height="489" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582603785033" />
+    <state width="2517" height="356" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583187306610" />
     <state width="979" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579499135745" />
-    <state width="2517" height="489" key="GridCell.Tab.0.center" timestamp="1582603785033">
+    <state width="2517" height="356" key="GridCell.Tab.0.center" timestamp="1583187306610">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state width="2517" height="489" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582603785033" />
+    <state width="2517" height="356" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583187306610" />
     <state width="979" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579499135745" />
-    <state width="2517" height="489" key="GridCell.Tab.0.left" timestamp="1582603785033">
+    <state width="2517" height="356" key="GridCell.Tab.0.left" timestamp="1583187306610">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state width="2517" height="489" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582603785033" />
+    <state width="2517" height="356" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583187306610" />
     <state width="979" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579499135745" />
-    <state width="2517" height="489" key="GridCell.Tab.0.right" timestamp="1582603785033">
+    <state width="2517" height="356" key="GridCell.Tab.0.right" timestamp="1583187306610">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state width="2517" height="489" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582603785033" />
+    <state width="2517" height="356" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583187306610" />
     <state width="979" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579499135745" />
-    <state width="2517" height="489" key="GridCell.Tab.1.bottom" timestamp="1582603785033">
+    <state width="2517" height="489" key="GridCell.Tab.1.bottom" timestamp="1583187306601">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state width="2517" height="489" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582603785033" />
+    <state width="2517" height="489" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583187306601" />
     <state width="979" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579463453779" />
-    <state width="2517" height="489" key="GridCell.Tab.1.center" timestamp="1582603785033">
+    <state width="2517" height="489" key="GridCell.Tab.1.center" timestamp="1583187306601">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state width="2517" height="489" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582603785033" />
+    <state width="2517" height="489" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583187306601" />
     <state width="979" height="346" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579463453778" />
-    <state width="2517" height="489" key="GridCell.Tab.1.left" timestamp="1582603785033">
+    <state width="2517" height="489" key="GridCell.Tab.1.left" timestamp="1583187306601">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state width="2517" height="489" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582603785033" />
+    <state width="2517" height="489" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583187306601" />
     <state width="979" height="346" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579463453778" />
-    <state width="2517" height="489" key="GridCell.Tab.1.right" timestamp="1582603785033">
+    <state width="2517" height="489" key="GridCell.Tab.1.right" timestamp="1583187306601">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state width="2517" height="489" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1582603785033" />
+    <state width="2517" height="489" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583187306601" />
     <state width="979" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579463453779" />
     <state x="2715" y="-130" key="SettingsEditor" timestamp="1582506847461">
       <screen x="1920" y="-360" width="2560" height="1400" />
@@ -375,13 +478,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="889" y="307" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579372163870" />
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1577683789898">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2795" y="104" key="com.intellij.ide.util.TipDialog" timestamp="1583030121517">
+      <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
+    <state x="2795" y="104" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583030121517" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577683789897" />
-    <state x="685" y="141" key="new project wizard" timestamp="1577937323205">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2833" y="-170" key="new project wizard" timestamp="1583093214779">
+      <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
+    <state x="2833" y="-170" key="new project wizard/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583093214779" />
     <state x="685" y="141" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1577937323205" />
     <state x="2856" y="150" key="run.anything.popup" timestamp="1582506204601">
       <screen x="1920" y="-360" width="2560" height="1400" />

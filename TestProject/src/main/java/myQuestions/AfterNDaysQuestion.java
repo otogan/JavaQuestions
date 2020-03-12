@@ -1,19 +1,20 @@
 package myQuestions;
 
+import org.testng.annotations.Test;
+
 import java.util.*;
 
 public class AfterNDaysQuestion {
     public static void main(String[] args) {
         String today = "Monday";
-        int increase = -3;
+        int increase = 5;
         System.out.println("Today is " + today);
 
         System.out.println("After " + increase + " days, it's " + addDays(today, increase));
     }
 
     public static String addDays(String today, int increase) {
-        String[] daysArray = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
-        List<String> days = Arrays.asList(daysArray);
+        List<String> days = Arrays.asList("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
 
         int currentDay = days.indexOf(today);
 
